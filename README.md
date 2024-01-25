@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. 
+- 😁 My name is Đỗ Tiến Minh
+- 🤔 I’m looking for help with competitive programming
 
 <!--
 **DTMinh2326/DTMinh2326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
